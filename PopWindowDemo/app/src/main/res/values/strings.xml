@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PopWindowDemo</string>
+
+    <string-array name="ageStatus">
+        <item>90后</item>
+        <item>80后</item>
+        <item>70后</item>
+        <item>60后</item>
+        <item>50后</item>
+    </string-array>
+</resources>

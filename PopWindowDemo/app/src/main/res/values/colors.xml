@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- toast-->
+    <color name="toast_bg_color">#cc000000</color>
+    <color name="c1">#ffffff</color>
+    <color name="c3">#dfdfdf</color>
+    <color name="c8">#26b14c</color>
+
+</resources>

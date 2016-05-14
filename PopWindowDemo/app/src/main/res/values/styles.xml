@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/c1</item>
+        <item name="colorPrimaryDark">@color/c1</item>
+        <item name="colorAccent">@color/c1</item>
+    </style>
+
+    <!-- PopupWindow窗口动画 -->
+    <style name="PWAnimationFade">
+        <item name="android:windowEnterAnimation">@anim/view_fadein</item>
+        <item name="android:windowExitAnimation">@anim/view_fadeout</item>
+    </style>
+
+</resources>

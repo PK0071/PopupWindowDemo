@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/main_rl"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_wheel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dip"
+        android:clickable="true"
+        android:text="滑动选择器" />
+
+    <TextView
+        android:id="@+id/tv_custom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:padding="5dip"
+        android:text="自定义布局的popupwindow" />
+</LinearLayout>
