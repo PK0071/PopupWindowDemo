@@ -1,6 +1,6 @@
 # PopupWindowDemo
 
-##主要提供两个带弹出动画的popupwindow的demo
+##主要提供两个带弹出动画的popupwindow控件
 ![image](http://i3.buimg.com/4908a4a402892ff9.png)
 
 ## 一.滑动选择器 
